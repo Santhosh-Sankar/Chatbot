@@ -1,4 +1,4 @@
-s# Chatbot using Transformer
+# Chatbot using Transformer
 
 <p align='center'>
     <img src="/images/chatbot.jpg" alt="animation" width="1000"/>
