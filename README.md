@@ -6,7 +6,7 @@
 
 This project involves developing an end-to-end seq2seq transformer model and training it to function as a chatbot which can respond to user inputs. Two transformer models, one with word tokenizer and one with subword tokenizer were trained for 250 epochs in Kaggle (larger epochs weren't used as training unexpectedly freezes) and the BLEU scores were evaluated.
 
-###Results
+### Results
 
 The below table summarizes the BLEU scores obtained after training the transformer model for 250 epochs.
 
